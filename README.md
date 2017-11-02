@@ -1,3 +1,3 @@
 # hello_world
-Testing
+Testing.\n
 Just following the tutorial of the site interface.
